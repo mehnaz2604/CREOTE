@@ -1,0 +1,74 @@
+<div class="team-seciton">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="member">
+                        <div class="share">
+                            <div class="s-btn">
+                                <h2>share</h2>
+                                fa
+                            </div>
+                        </div>
+
+                        <div class="title">
+                            <h2>Name</h2>
+                            <h2>Designation</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="member">
+                        <div class="share">
+                            <div class="s-btn">
+                                <h2>share</h2>
+                            </div>
+                        </div>
+
+                        <div class="title">
+                            <h2>Name</h2>
+                            <h2>Designation</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="member">
+                        <div class="share">
+                            <div class="s-btn">
+                                <h2>share</h2>
+                            </div>
+                        </div>
+
+                        <div class="title">
+                            <h2>Name</h2>
+                            <h2>Designation</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+Ali
+Ali Muzahid
+.team-seciton{
+    width: 100%;
+    padding: 80px 0px;
+}
+
+.member{
+    background: url(../img/8.jpg) center center no-repeat;
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.share{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+
+

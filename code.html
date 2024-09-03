@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+
+<style>
+    section{
+        width: 100%;
+        padding: 80px 0px;
+        text-align: center;
+       
+    }
+
+    section a{
+        padding: 12px 30px;
+        border: 1px solid #000;
+        color: #000;
+        background: transparent;
+        text-decoration: none;
+        text-transform: uppercase;
+        position: relative;
+        transition: all 0.3s linear;
+    }
+    section a::before{
+        content:"mehnaz";
+        background-color: #000;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width:0;
+        height: 100%;
+        transition: all 0.3s linear;
+        z-index: -1;
+    }
+
+    section a:hover::before{
+    width: 100%;
+    }
+
+    section a:hover{
+        color: #fff;
+    }
+
+
+</style>
+<body>
+    <section>
+        <a href="#">View More</a>
+    </section>
+</body>
+</html>

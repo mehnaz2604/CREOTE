@@ -1,0 +1,514 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .menu .navbar .btn-info {
+        display: none;
+        padding: 7px 12px;
+        background: #078586;
+        border: 1px solid #ffff;
+        border-radius: 100%;
+    }
+
+
+
+
+
+
+   
+    .slider{
+        display: none;
+    }
+
+    .create {
+        width: 100%;
+        padding: 40px 0px 0px;
+        background-image: url(../images/banner2.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center top;
+    }
+    .create .inner-create {
+        text-align: center;
+    } 
+
+    .create .inner-create h2 {
+        font-size: 25px;
+    font-weight: 700px;
+    line-height: 30px;
+    color: #fff;
+    margin: 0px 0px 30px 0px;
+    }
+    .create .inner-create p {
+        font-size: 16px;
+        font-weight: 400px;
+        line-height: 28px;
+        color: #fff;
+
+    }
+
+    .create .inner-create .btn-primary {
+        padding: 10px 30px;
+        font-size: 14px;
+        font-weight: 700px;
+        line-height: 26px;
+        letter-spacing: 3px;
+        color: #fff;
+        background: #078586;
+        border: 1px solid #078586;
+        border-radius: 0px 10px 0px 10px;
+        transition: 1s;
+    }
+    .n-content h1 {
+        font-size: 32px;
+        font-weight: 900;
+        line-height: 60px;
+        color: #fff;
+        padding: 25px 10px 0px;
+    }
+
+    .n-content p {
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 89px;
+        color: #fff;
+    }
+
+    .recruitment {
+        text-align: center;
+        width: 100%;
+        padding: 40px 0px;
+    }
+
+    .recruitment .inner-recruitment .btn-primary {
+        padding: 10px 33px;
+        font-size: 16px;
+        font-weight: 700px;
+        line-height: 28px;
+        letter-spacing: 3px;
+        color: #078586;
+        background: transparent;
+        border: 1px solid #078586;
+        transition: 1s;
+        border-radius: 0px 10px 0px 10px;
+    }
+
+
+    .case-study {
+        width: 100%;
+        padding: 40px 0px;
+    }
+
+
+    
+
+   
+    .experience p {
+        padding: 10px 0px;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 22px;
+        color: #fff;
+    }
+
+    .experience .button .btn-info {
+        margin: 75px 0px 0px;
+        border: 1px solid #078586;
+        background-color: #078586;
+        border-radius: 100%;
+}
+
+.inner-experience .content h5 {
+    text-align: center;
+    margin: 0px 5px;
+    padding: 0px;
+    color: #fff;
+}
+
+.inner-experience .content p {
+    text-align: center;
+    margin: 0px 5px;
+    padding: 0px;
+    color: #078586;
+
+}
+.team-seciton .title p {
+    padding: 0px 0px 0px;
+    font-size: 18px;
+    font-weight: 500px;
+    line-height: 28px;
+
+}
+.n-content p {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #fff;
+}
+    .intel {
+        width: 100%;
+        padding: 40px 0px;
+    }
+    .title h2 {
+        font-size: 30px;
+        font-weight: 900px;
+        line-height: 38px;
+        color: #282f3b;
+        margin: 0px 0px 0px 0p
+
+}
+.inner-post .image-fluid {
+    width: 80px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 0px px 0px px;
+
+
+}
+.executive-section {
+    width: 100%;
+    padding: 40px 0px;
+    background-color: #F0F3F9;
+}
+
+
+
+.email {
+    width: 100%;
+    padding: 20px 0px 0px;
+    background-color: #078586;
+
+}
+.email .title h2 {
+    text-align: center;
+    font-size: 26px;
+    font-weight: 600px;
+    line-height: 40px;
+    color: #fff;
+     margin: 0;
+
+}
+
+.email .title p {
+    font-size: 15px;
+    font-weight: 400px;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+
+}
+
+form .mb-3 .form-control {
+    padding: 10px 0px;
+    font-size: 18px;
+    font-weight: 700px;
+    line-height: 28px;
+    color: #282F3B;
+    background: #F0F3F9;
+    border: 1px solid #F0F3F9;
+    border-radius: 10px 0px 0px 0px;
+}
+
+form .btn-primary {
+    padding: 14px 15px;
+    font-size: 15px;
+    font-weight: 500px;
+    color: #F0F3F9;
+    background: #000;
+    border: 1px solid #000;
+    border-radius: 0px 0px 10px 0px;
+}
+.footer-section {
+    width: 100%;
+    padding: 80px 0px 0px;
+    color: #fff;
+    background-color: #282F3B;
+    text-align: center;
+}
+
+
+.inner-footer{
+   text-align: center;
+}
+.footer-section hr {
+    width: 100%; 
+    color: #078586;
+}
+
+
+.bottom-footer .content {
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: capitalize;
+    padding: 20px 0px;
+
+
+}
+
+
+.bottom-footer .widget {
+    display: block;
+    text-align: left;
+    padding: 20px 0px;
+
+}  
+}
+/*  Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .header-section {
+        text-align: center;
+        width: 100%;
+    }
+    .menu {
+        text-align: left;
+        width: 100%;
+        height: 90px;
+        padding: 0px;
+        margin: 0;
+
+    }
+    .menu .navbar .btn-info {
+        display: none;
+        padding: 7px 12px;
+        background: #078586;
+        border: 1px solid #ffff;
+        border-radius: 100%;
+    }
+
+    .slider{
+        display: none;
+    }
+
+    .overlay{
+        background: #000;
+        opacity: 50;
+        width: 100%;
+        height: 100%;
+    }
+
+    .create {
+        width: 100%;
+        padding: 40px 0px 0px;
+        background-image: url(../images/banner2.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center top;
+    }
+
+    .create .inner-create {
+        text-align: center;
+    } 
+
+    .create .inner-create h2 {
+        font-size: 25px;
+    font-weight: 700px;
+    line-height: 30px;
+    color: #fff;
+    margin: 0px 0px 30px 0px;
+    }
+    .create .inner-create p {
+        font-size: 16px;
+        font-weight: 400px;
+        line-height: 28px;
+        color: #fff;
+    }
+
+    .recruitment {
+        text-align: center;
+        width: 100%;
+        padding: 40px 0px;
+    }
+
+    .recruitment .inner-recruitment .btn-primary {
+        padding: 10px 33px;
+        font-size: 16px;
+        font-weight: 700px;
+        line-height: 28px;
+        letter-spacing: 3px;
+        color: #078586;
+        background: transparent;
+        border: 1px solid #078586;
+        transition: 1s;
+        border-radius: 0px 10px 0px 10px;
+    }
+
+    .case-study {
+        width: 100%;
+        padding: 40px 0px;
+    }
+
+    .experience .button .btn-info {
+        margin: 75px 0px 0px;
+        border: 1px solid #078586;
+        background-color: #078586;
+        border-radius: 100%;
+}
+
+.inner-experience .content h5 {
+    text-align: center;
+    margin: 0px 5px;
+    padding: 0px;
+    color: #fff;
+}
+
+.inner-experience .content p {
+    text-align: center;
+    margin: 0px 5px;
+    padding: 0px;
+    color: #078586;
+
+}
+
+.n-content p {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #fff;
+}
+    .intel{
+        width: 100%;
+        padding: 80px 0px;
+    }
+.title h2 {
+    font-size: 30px;
+    font-weight: 900px;
+    line-height: 38px;
+    color: #282f3b;
+    margin: 0px 0px 30px 0px;
+
+}
+.inner-post .image-fluid {
+    width: 80px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 0px px 0px px;
+
+
+}
+
+.email {
+    width: 100%;
+    padding: 20px 0px 0px;
+    background-color: #078586;
+
+}
+.email .title h2 {
+    text-align: center;
+    font-size: 26px;
+    font-weight: 600px;
+    line-height: 40px;
+    color: #fff;
+     margin: 0;
+
+}
+
+.email .title p {
+    font-size: 15px;
+    font-weight: 400px;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+
+}
+form .mb-3 .form-control {
+    padding: 10px 0px;
+    font-size: 18px;
+    font-weight: 700px;
+    line-height: 28px;
+    color: #282F3B;
+    background: #F0F3F9;
+    border: 1px solid #F0F3F9;
+    border-radius: 10px 0px 0px 0px;
+}
+
+form .btn-primary {
+    padding: 14px 15px;
+    font-size: 15px;
+    font-weight: 500px;
+    color: #F0F3F9;
+    background: #000;
+    border: 1px solid #000;
+    border-radius: 0px 0px 10px 0px;
+}
+.footer-section {
+    width: 100%;
+    padding: 80px 0px 0px;
+    color: #fff;
+    background-color: #282F3B;
+    text-align: center;
+}
+
+
+.inner-footer{
+   text-align: center;
+}
+.footer-section hr {
+    width: 100%; 
+    color: #078586;
+}
+.bottom-footer .content {
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: capitalize;
+    padding: 20px 0px;
+
+
+}
+
+
+.bottom-footer .widget {
+    display: block;
+    text-align: left;
+    padding: 20px 0px;
+
+}  
+
+
+}
+
+
+
+
+
+
+
+
+
+
+ 
+    
+
+     
+
+
+    
+
+  
+
+    
+
+
+    
+
+
+
+
+
+/*  Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+   
+
+}
+
+/*  Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+}
+
+/*  Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px)and (max-width: 1399.98px) {  }
+
+ /* Extra extra large devices (large desktops, 1400px and up) * */
+@media (min-width: 1400px){
+    
+}
